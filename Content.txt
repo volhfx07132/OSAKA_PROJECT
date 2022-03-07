@@ -1,0 +1,30 @@
+Khái niệm Là Gì: 
+    +Staking là hành động giữ và khóa một lượng coin nhất định để nhận được phần thưởng từ chúng. 
+    +Lượng coin này có thể được khóa trong ví hoặc các nút của một dự án Blockchain trong một khoảng thời gian.
+    +Phần thưởng sẽ dựa trên công sức người dùng đã bỏ ra bao gồm: lượng coin stake & thời lượng stake. 
+    +Proof of Stake là thuật toán đồng thuận trong Blockchain. Trong đó, những người tham gia sẽ stake coin 
+    (đặt cược coin) của họ vào mạng lưới Blockchain để xác thực giao dịch và tạo khối mới. Phần thưởng (gồm phần thưởng khối và phí giao dịch) 
+Phân loại staking: 
+    1: Staking trong PoS 
+            Tức là 1 lượng coin nhất định sẽ được đặt cược để đảm bảo cho 1 nhiệm vụ nào đó. Trong cơ chế PoS, anh em stake coin để đảm bảo,
+            chứng minh năng lực xử lý giao dịch và tạo khối của mình, đồng thời nhận được phần thưởng với công sức bỏ ra.
+    2: Staking để nhận Reward
+            Người dùng sẽ dùng token của mình để stake lại vào trong hệ sinh thái của dự án. Việc Staking này không trực tiếp tham gia vào
+            việc xác thực các giao dịch hay bất cứ nhiệm vụ gì liên quan tới các hoạt động trong mạng lưới. Người dùng lock càng lâu thì nhận được phần thưởng reward càng nhiều.
+Lợi ích: 
+    1: Tạo nguồn thu nhập thụ động & tăng lượng coin trong thời gian Staking
+    2: Tiết kiệm chi phí
+    3: Tính an toàn: Việc Staking được thực hiện an toàn vì có bản backup. 
+    4: Đối với các dự án + Tạo tính phi tập trung cho mạng lưới 
+                         + Tận dụng được nguồn lực bên ngoài
+                         + Tạo động lực tham gia mạng lưới
+                         + An toàn cho mạng lưới (phải chiếm được hơn 51 cổ phần của toàn mạng lưới).
+
+Rủi ro:
+    1: Trong suốt thời gian Staking, lượng coin tham gia stake bị khoá lại. (Sẽ mất một khoảng thời gian
+       để nhận lại được phần coin mình đã stake).
+    2: Không phải lúc nào Staking cũng có lời. Rủi ro lớn nhất anh em có thể gặp phải là giá coin down.    
+
+                
+                    
+                     
