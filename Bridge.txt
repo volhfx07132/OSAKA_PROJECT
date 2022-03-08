@@ -1,0 +1,31 @@
+Khái niệm: 
+    + bridge là một hệ thống nhằm trao đổi thông tin giữa hai hệ thống blockchain hoặc nhiều hơn. Thông tin ở đây có
+      thể là tài sản, hợp đồng hoặc thông tin giao dịch
+      
+Cách Liquidity Pool hoạt động: 
+    +Thiết kế của một bridge thường bao gồm những thành phần sau:
+      -Giám sát: Thường có một tác nhân, có thể là một oracle, một người xác nhận hoặc người chuyển tiếp, giám sát trạng thái trên chuỗi nguồn (source chain)
+      -Chuyển tiếp: Sau khi một tác nhân nhận một thông điệp, nó cần truyền thông tin từ chuỗi nguồn đến chuỗi đích (destination chain).
+      -Đồng thuận:  Sau khi một tác nhân nhận một thông điệp, nó cần truyền thông tin từ chuỗi nguồn đến chuỗi đích (destination chain).
+      -Chữ ký: Các tác nhân cần phải ký xác nhận bằng mật mã trên thông tin được gửi đến chuỗi đích.
+Các Loại Blockchain Bridge:
+    + Theo tài sản: Được tạo ra với mục đích cung cấp quyền truy cập vào một loại tài sản từ một chuỗi khác. 
+    + Theo chuỗi: Cầu nối giữa hai blockchain thường hỗ trợ các hoạt động đơn giản xung quanh việc khóa & mở khóa token trên chuỗi nguồn và tạo ra tài sản “wrapped” trên chuỗi đích
+    + Theo ứng dụng: Một ứng dụng cung cấp quyền truy cập vào hai hoặc nhiều blockchain, nhưng chỉ để sử dụng trong ứng dụng đó, thường có các mô-đun chuyển đổi nhẹ hơn trên mỗi blockchain 
+    + Khái quát: Một giao thức được thiết kế đặc biệt để truyền thông tin qua nhiều blockchain. Thiết kế này có hiệu ứng kết nối mạnh mẽ vì độ phức tạp – một tích hợp duy nhất cho một dự án cho phép nó truy cập vào toàn bộ hệ sinh thái.
+Lợi ích:
+    + Chúng phát triển các điểm mạnh độc đáo của riêng mình
+      - Bảo mật cao
+      - Thông lượng nhanh
+      - Giao dịch rẻ
+      - Quyền riêng tư tốt và cộng đồng nhà phát triển và người dùng riêng biệt.
+    + Tăng cường sự hiệu quả của những tài sản mã hóa hiện tại  
+      - Bridge cho phép các loại tài sản mã hóa được chuyển đi nhiều nơi hơn và hiệu quả hơn
+    + Tăng cường khả năng của sản phẩm trên các giao thức  
+    + Mở ra tính năng mới cho người dùng và nhà phát triển
+      - Bridge cho người dùng và nhà phát triển nhiều lựa chọn hơn
+Rủi ro 
+    + Để xay dựng bridge tốt rất nhiều chi phí
+    + Cực kỳ khó khăn trong các hệ thống phân quyền.
+
+   
