@@ -1,0 +1,30 @@
+Khái niệm: 
+    + Liquidity Pool là một nhóm coin hoặc token được khoá (lock) trong một hợp đồng thông minh. 
+    + Nó được sử dụng để tạo điều kiện giao dịch giữa các tài sản trên một sàn giao dịch phi tập trung (DEX)
+    + Chúng tạo điều kiện cho phép các tài sản kỹ thuật số được di chuyển theo cách tự động và không cần sự cho phép của các bên liên quan
+    + Liquidity Pool ra đời nhằm mục đích giải quyết vấn đề của thị trường kém thanh khoản bằng cách khuyến khích bản thân người dùng cung
+     cấp thanh khoản tiền điện tử và nhận lại phần thường là một phần phí giao dịch.
+
+Cách Liquidity Pool hoạt động: 
+    +Order Book Exchanges:
+       - Order Book Exchanges phụ thuộc vào bid /ask của chương trình để hoàn thành giao dịch.
+       - Order sẽ được chuyển hướng đến Order Book khi một lệnh mua hoặc bán mới được thực hiện. 
+          Sau đó, công cụ khớp lệnh của sàn giao dịch thực hiện các lệnh khớp với cùng một mức giá.
+    +Liquidity Pool Exchanges:
+       -Liquidity Pool đề cập đến một pool các token từ những người dùng bị lock trong các hợp đồng thông minh.
+       -Liquidity Pool được thiết kế để giải quyết và khắc phục vấn đề này và cung cấp tính thanh khoản ở các mức
+        giá khác nhau. Họ loại trừ việc nhấn mạnh vào giao dịch order book khỏi sàn giao dịch. Do đó, chúng cho phép sàn giao dịch đảm bảo mức thanh khoản ổn định.
+Lợi ích:
+    + Thanh khoản được đảm bảo ở mọi mức giá
+    + Định giá tự động cho phép tạo thị trường thụ động
+    + Bất kỳ ai cũng có thể trở thành nhà cung cấp thanh khoản và kiếm tiền
+    + Phí gas thấp hơn
+Rủi ro
+    + Tổn thất tạm thời
+    + Các lỗi hợp đồng thông minh có thể xảy ra.
+    + Các vụ hack Liquidity Pool
+    + Rủi ro hệ thống Pool.
+Một số dự án cung cấp Liquidity Pool
+    + Uniswap
+    + Bancor
+    + Just Swap

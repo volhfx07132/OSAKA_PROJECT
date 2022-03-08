@@ -1,10 +1,32 @@
-Khái niệm Là Gì: 
-   
-Phân loại staking: 
+Khái niệm:
+    + Swapcòn được gọi là ‘thay thế/ chuyển đổi, là thuật ngữ dùng để chỉ việc chuyển đổi các token mã hóa từ
+        blockchain này sang blockchain khác theo tỷ lệ do các nhà phát triển quy định (tài sản cũ bị thay thế sẽ bị hủy và tài sản mới được thay thế hoàn toàn)
+    + Swap thường để gây quỹ và phân phối token hoặc phục vụ các mục đích cá nhân.
+        Các token được phân phối tại giai đoạn này đóng vai trò là “placeholder” cho user khi dự án hoạt động.
    
 Lợi ích: 
+    + Kiếm lợi nhuận: Trong một thời gain ngắt, giá trị token có thể thay đổi lên xuống, nếu bạn xác định đúng
+        thời điểm thì sẽ kiếm được một khoản kha khá kha khá bằng cách swap crypto
+    + Đa dạng hóa danh mục đầu tư của bạn: Chia tài sản ra nhiều loại crypto khác nhau giúp sinh thời, có thể giảm tác động khi giá giảm
+    + Thu nhập thụ động: Một số tài sản crypto có thể hỗ trợ staking, nghĩa là bạn có thể kiếm được nhiều crypto hơn mà không cần thao tác thêm bất kỳ hành động nào từ phía bạn. 
 
 Rủi ro:
+    +Giao dịch có thể không thành công sức
+        + Trả quá ít phí gas
+        + Giá hiện tại token nhảy qua giá tối đa mà bạn có thể Trả
+        + Giá trị thanh khoảng (liquidity) không đủ
+    + Các cuộc tấn công lừa đảo (Các sàn giao dịch gủa mạo)
+
+Các hình thức swap:
+    +Hoán đổi tự động: 
+        Chuyển lên sàn giao dịch có hỗ trợ hoán đổi token đó, còn lại quy trình thực hiện sàn sẽ làm tất cả cho bạn,
+        bạn không cần phải làm thêm bước nào nữa, au khi quá trình hoán đổi token kết thúc, sàn sẽ tạo một ví mới 
+        tương thích mới blockchain mới và chuyển toàn bộ số token mới vào ví cho bạn.
+    +Hoán đổi thủ công: 
+        Bạn sẽ phải tự mình thực hiện hoán đổi token theo hướng dẫn của dự án. quy trình này không
+        hề đơn giản và sẽ không phù hợp với những người mới
+
+
 
                 
                     
