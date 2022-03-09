@@ -1,0 +1,9 @@
++ Chức năng đặt cược sẽ cho phép chủ sở hữu của chúng tôi kiếm thu nhập thụ động từ việc nắm giữ
+  mã thông báo DAL / DAL-BUSD LP và quan trọng nhất là cung cấp cho chủ sở hữu DAL được đảm bảo 
+  phân bổ cho tư nhân và bán mã thông báo công khai!
++ Function Add:
+     Content: Dùng để thêm số Tokens để staking vào dự án             
++ Function UnStake: 
+     Content: Dùng để rút số Token mà mình đã staking vào các dự án      
++ Function Harvest: 
+     Content: Dùng để rút số phần thưởng mà mình đã staking vào dự án và số phần thưởng vào số token đã staking vào trước đó.     

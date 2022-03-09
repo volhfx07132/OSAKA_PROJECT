@@ -1,0 +1,28 @@
+Khái niêm: 
+    +Sàn giao dịch tiền điện tử (cryptocurrency) là một thị trường được tổ chức cho việc trao đổi giữa các loại tiền mã hóa.
+    Đó là nơi người mua và người bán (hay người có nhu cầu và người cung cấp) tiếp xúc trực tiếp hoặc gián tiếp với nhau để trao đổi,  
+    mua bán các loại tiền kỹ thuật số khác nhau
+Cách thưc hoạt động: 
+    +Sàn giao dịch tập trung(CEX)
+       - Bao gồm một bên thứ ba đáng tin cậy làm trung gian giao dịch. Tiền của người giao dịch được gửi tạm thời trên sàn giao dịch,
+         sau đó sẽ thực hiện giao dịch trong thời gian thực. Mỗi bên tham gia vào giao dịch trên sàn dựa vào đó để thực hiện giao dịch
+         một cách an toàn và bảo mật.
+    +Sàn giao dịch tập trung(DEX)
+       - Cung cấp cùng một môi trường để hoán đổi giữa các loại tiền điện tử hoặc giữa tiền điện tử và tiền pháp định, Bỏ yếu tố trao đổi lưu ký,
+         thay vào đó cho phép người giao dịch giữ quyền kiểm soát trực tiếp đối với ví của họ trong toàn bộ thời gian của giao dịch.
+Cái loại phổ biến: 
+    +Sàn giao dịch tập trung(CEX)
+       + Binance, Coinbase, Kraken, KuCoin, Gate.io, Gemini.
+    +Sàn giao dịch tập trung(DEX)
+       + Nash, Uniswap, Mooniswap, Binance DEX, Switcheo.
+Ưu Diểm: 
+    +Ngoài việc kết nối giữa người mua và người bán tiền điện tử, các sàn giao dịch cung cấp một loạt các lợi ích khác, bao gồm:
+       -Tỷ giá mua và bán cạnh tranh
+       -Khối lượng giao dịch cao (có thể khớp lệnh mua và bán dễ dàng, nghĩa là thời gian quay vòng giao dịch nhanh chóng)
+       -Nhiều phương thức thanh toán (chuyển khoản ngân hàng trực tiếp, thẻ tín dụng, thẻ ghi nợ và PayPal trong số những phương thức khác)
+       -Dịch vụ ví tích hợp sẵn (sàn giao dịch tập trung)
+       -Bảo mật cho các giao dịch tiền điện tử (dựa trên danh tiếng của sàn giao dịch).
+Nhược Điểm: 
+    +Là món mồn ngon của kẻ tấn công mạng
+    +Chi phí giao dịch chưa hợp lý
+    +Thiếu tính riêng ty    
